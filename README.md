@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ShreejithPavan
 - 👀 I’m interested in AI/ML and Cybersecurity
-- 🌱 I’m currently learning Artificial Intelligence
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Artificial Intelligence at @[Periyar Maniammai University](https://www.pmu.edu/)..
 - 📫 You can reach me via my LinkedIn @pavan-shreejith-62800a281
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ShreejithPavan/ShreejithPavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
